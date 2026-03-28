@@ -1,1 +1,1 @@
-# 2026 Computer Vision 강의 Example Code 모음
+# 2026 Computer Vision 강의 Example Codes
